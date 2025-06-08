@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2023  <br>📚 I'm currently learning: Python, Machine Learning, SQL, and Web Development  <br>🎯 Goals:  <br>- Build my own AI personal assistant  <br>- Be a well-rounded full-stack developer  <br>- Win in life, and achieve meaningful goals  <br>🎲 Fun fact: I once imagined having an AI assistant as a kid</p>
+<p align="left">✨ Creating bugs since: 2023  <br>📚 Currently exploring Python, Machine Learning, SQL, and Web Development <br>🔍 Always curious, always learning  <br>🎯 Interested in building tools that make life easier, smarter, and more meaningful   <br>🎲 Fun fact: I once imagined having an AI assistant as a kid</p>
 
 ###
 
