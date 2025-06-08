@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nero and I'm a student from Indonesia, currently learning in the fields of AI, web development, and self-mastery. I believe in consistent improvement and the power of dreams backed by discipline.</p>
+<p align="left">I'm Nero, a student from Indonesia passionate about building in the fields of AI, web development, and self-mastery. I’m driven by the pursuit of progress and enjoy learning by doing. I believe in consistent improvement and the power of discipline-backed dreams.</p>
 
 ###
 
