@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dtbGt0aTZwYmo4b3Q1cGw5YjlxMzd4dzFrOGtleHE0cXkyaW1iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcH7WRAnKKWhR7y/giphy.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dtbGt0aTZwYmo4b3Q1cGw5YjlxMzd4dzFrOGtleHE0cXkyaW1iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcH7WRAnKKWhR7y/giphy.gif" width="600"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Atthalaric+Nero;Backend+%26+ML+Engineer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0969da&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Atthalaric+Nero;Backend+%26+ML+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,9 +39,9 @@ class Nero:
 ### Connect with me
 <div align="left">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a.svg?style=for-the-badge&logo=Instagram&logoColor=FFD700)](https://www.instagram.com/atthalaricnero_?igsh=MWZ4OTJ2cmU4NXN4NQ==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a.svg?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/atthalaric-nero-2aa991288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=FFD700)](https://wa.me/62895630484414)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/atthalaricnero_?igsh=MWZ4OTJ2cmU4NXN4NQ==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atthalaric-nero-2aa991288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895630484414)
 
 </div>
 
