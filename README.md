@@ -42,6 +42,7 @@ class Nero:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/atthalaricnero_?igsh=MWZ4OTJ2cmU4NXN4NQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atthalaric-nero-2aa991288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895630484414)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atthalaric-nero-portofolio.vercel.app/)
 
 </div>
 
